@@ -13,7 +13,7 @@ export function Hero() {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8, ease: [0.16, 1, 0.3, 1] }}
         >
-          <h1 className="text-[4rem] md:text-[5rem] lg:text-[6rem] font-bold tracking-tighter leading-[0.85] overflow-hidden mb-8 mt-12 md:mt-0 font-sans">
+          <h1 className="text-[4rem] md:text-[5rem] lg:text-[6rem] font-bold tracking-tighter leading-[0.85] pb-4 mb-8 mt-12 md:mt-0 font-sans">
             <span className="text-white block">Stop</span>
             <span className="text-white block">solving</span>
             <span className="text-white block">problems.</span>
