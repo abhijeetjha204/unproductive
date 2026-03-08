@@ -19,6 +19,7 @@ export function Hero() {
             <span className="text-white block">problems.</span>
             <span className="text-[#52525b] block">Start</span>
             <span className="text-[#52525b] block">chilling.</span>
+            
           </h1>
 
           <p className="text-lg md:text-xl text-zinc-400 max-w-[42ch] leading-relaxed mb-12 font-medium">
